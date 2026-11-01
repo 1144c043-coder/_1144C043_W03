@@ -1,0 +1,12 @@
+# UE5 暫存與編譯檔案
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE 設定檔
+.vs/
+.vscode/
+*.sln
+*.suo
